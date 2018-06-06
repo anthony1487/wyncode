@@ -1,6 +1,0 @@
-ignore_me.txt
-Input: # Type your command to create a file named 
-
-Output: # Nothing will be output to the screen.
-Input: # Type your command to create a file named 'ignore_me.txt'
-Nothing will be output to the screen.
